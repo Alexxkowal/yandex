@@ -1,0 +1,10 @@
+item_name;is_expense;quantity;sum_of_one
+Keyboard;True;6;85209
+Laptop;False;3;56918
+Notebook;True;9;91250
+Chair;False;5;4295
+Monitor;False;18;95653
+Monitor;True;14;86145
+Desk;False;19;14092
+Chair;False;9;71619
+Printer;False;8;16418

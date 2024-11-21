@@ -1,0 +1,8 @@
+item_name;is_expense;quantity;sum_of_one
+Desk;True;20;62226
+Notebook;True;11;77407
+Desk;False;17;2411
+Desk;False;15;30852
+Desk;True;1;64396
+Laptop;False;3;45219
+Notebook;False;11;24668
