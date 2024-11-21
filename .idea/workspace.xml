@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9398ca9f-82a5-4b9c-a945-db4e9bb68c3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202302.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202303.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202401.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202402.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202403.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202404.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202405.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202406.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202407.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202408.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202409.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202410.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202411.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/m.202412.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/y.2022.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/y.2023.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/y.2024.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kniit241/Accounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kniit241/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kniit241/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kniit241/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kniit241/Monthly_report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kniit241/ReportReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/kniit241/Year_report.java" afterDir="false" />
-    </list>
+    <list default="true" id="9398ca9f-82a5-4b9c-a945-db4e9bb68c3b" name="Changes" comment="Почти законченная работа. Далее требуется обработать ошибки и улучшить читаемость" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Alexxkowal"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Alexxkowal/yandex.git",
+    "accountId": "be6882a8-6934-4945-bc93-39e686174c61"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -94,6 +71,30 @@
       <option name="presentableId" value="Default" />
       <updated>1731343317390</updated>
     </task>
+    <task id="LOCAL-00001" summary="Почти законченная работа. Далее требуется обработать ошибки и улучшить читаемость">
+      <option name="closed" value="true" />
+      <created>1732165727598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732165727598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Почти законченная работа. Далее требуется обработать ошибки и улучшить читаемость" />
+    <option name="LAST_COMMIT_MESSAGE" value="Почти законченная работа. Далее требуется обработать ошибки и улучшить читаемость" />
   </component>
 </project>
